@@ -64,6 +64,8 @@ main {
 h2 {
     color: #4f7c65;
     margin-top: 25px;
+    border-left: 5px solid #4f7c65;
+    padding-left: 10px;
 }
 
 strong {
